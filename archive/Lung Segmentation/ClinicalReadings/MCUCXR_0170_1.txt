@@ -1,0 +1,4 @@
+Patient's Sex: M 
+Patient's Age: 049Y
+CXR similar to prior views 1M and 2M ago with some slight improvement; on HRZ(E)x2 months, AFB smears neg now, will switch to HR only (same pt as MCUCXR_0166_1, MCUCXR_0162_1)
+

@@ -1,0 +1,3 @@
+Patient's Sex: M 
+Patient's Age: 036Y
+suspicious active disease

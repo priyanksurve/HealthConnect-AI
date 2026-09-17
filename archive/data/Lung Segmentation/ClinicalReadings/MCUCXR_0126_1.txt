@@ -1,0 +1,3 @@
+Patient's Sex: M 
+Patient's Age: 046Y
+large right pleural effusion, positive TST, TB pleural effusion likely

@@ -1,0 +1,3 @@
+Patient's Sex: F 
+Patient's Age: 077Y
+RUL fibrocavitary disease with volume loss and tracheal deviation to right; COPD scoliosis;

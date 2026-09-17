@@ -1,0 +1,4 @@
+Patient's Sex: M 
+Patient's Age: 049Y
+NO REPORT (same pt as MCUCXR_0162_1)
+

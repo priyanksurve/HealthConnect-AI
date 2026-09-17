@@ -1,0 +1,3 @@
+Patient's Sex: M 
+Patient's Age: 034Y
+inactive scars unchanged for 6M

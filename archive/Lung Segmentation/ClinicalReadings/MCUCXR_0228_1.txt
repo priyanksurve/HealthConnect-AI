@@ -1,0 +1,3 @@
+Patient's Sex: M 
+Patient's Age: 032Y
+positive improvement in cavities, infiltrates, and left effusion
