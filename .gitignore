@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+processed_dataset/
+*.keras
+*.h5
+*.pkl
+
+*.png
+*.jpg
+*.jpeg
+
+.env

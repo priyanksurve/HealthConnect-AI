@@ -423,4 +423,5 @@ def get_all_symptom_checks():
     """)
     rows = cursor.fetchall()
     cursor.close()
-    conn.close()
+    conn.close()
+    return rows
